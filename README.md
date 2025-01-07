@@ -1,7 +1,12 @@
 # Heart-Disease-Prediction
+
+I will recreate this content exactly as it is for you. Here’s the text formatted as requested:
+
+README for Heart Disease Prediction Model
 Heart Disease Prediction Model with Flask
 Project Overview
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using patient data. It incorporates three algorithms—KNN, Decision Trees, and Logistic Regression—along with exploratory data analysis (EDA) to provide insights and predictions. The model is deployed using a Flask framework, offering an interactive interface for users to input data and receive predictions.
+
 Key Features
 Machine Learning Models:
 K-Nearest Neighbors (KNN)
